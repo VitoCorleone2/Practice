@@ -1,2 +1,1 @@
-# Practice
-Practice
+repository for practical work
